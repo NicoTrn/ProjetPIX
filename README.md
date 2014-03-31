@@ -29,9 +29,9 @@ Les joueurs de tennis en général mais aussi les entraîneurs.
 4.2 Liste des éléments a acheter pour le fabriquer
 
 5. Programmation
-5.1 Description de la démonstration
-5.2 Liste des fichiers
-5.3 Diagramme de classes
 
-niclas lfkqdfksdf
-bonjour
+5.1 Description de la démonstration
+
+5.2 Liste des fichiers
+
+5.3 Diagramme de classes
