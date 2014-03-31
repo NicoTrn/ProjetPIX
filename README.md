@@ -1,5 +1,5 @@
-1. Croquis ...
-ok
+1. Croquis 
+A faire ce soir 
 
 2. Cahier des charges
 Balle de tennis connectée 
@@ -15,9 +15,9 @@ Pour faciliter le débrifing des matchs pour les professionnels ou même les amate
 Les joueurs de tennis en général mais aussi les entraîneurs.
 
 2.4 Comment ?
+En inserant une puce miniature dans la balle.
 
-
-3. Description fonctionnelle
+ Description fonctionnelle
 
 3.1 Cas d'utilisation
 
