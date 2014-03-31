@@ -1,5 +1,5 @@
 1. Croquis 
-A faire ce soir 4
+A faire ce soir 48
 
 2. Cahier des charges
 Balle de tennis connectée 
