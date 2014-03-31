@@ -1,4 +1,4 @@
-1. Croquis
+1. Croquis ...
 
 2. Cahier des charges
 Balle de tennis connectée 
