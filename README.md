@@ -1,4 +1,6 @@
-1. Croquis 
+1. Croquis :
+jkl
+adresse du croquis : https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/img002.jpg
 
 2. Cahier des charges
 Balle de tennis connectée 
