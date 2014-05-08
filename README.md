@@ -24,17 +24,30 @@ En inserant une puce miniature dans la balle qui aurait différents composants su
 
 3 Description fonctionnelle
 
-![Diagramme d'état](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Sans%20titre%201.jpg)
 
 3.1 Cas d'utilisation
+
+Pour les debriefs d'après matchs des joueurs et des entraîneurs.
 
 3.2 Diagramme etats-transitions
 
 4. Description matérielle
+Nous avons donc une carte mère CERBERUS avec différents composants pour un total de 101.7 dollars: 
+-Une carte SD;
+-Un composant bluetooth;
+-Un acceleromètre(contrôleur de vitesse);
+-Un potentiomètre (contrôleur de position);
+-Un composant USB;
+-Un breadboard.
 
 4.1 Schéma Gadgeteer et électronique de l'objet
 
-4.2 Liste des éléments a acheter pour le fabriquer
+![Diagramme d'état](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Sans%20titre%201.jpg)
+
+
+4.2 Liste des éléments à acheter pour le fabriquer
+
+Une carte CEBERUS, et les six composants nécessaires. Un fer à souder pour les manipulations.
 
 5. Programmation
 
