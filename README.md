@@ -1,5 +1,6 @@
 1. Croquis :
 
+![Croquis de la balle](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/img002.jpg)
 
 2. Cahier des charges
 
