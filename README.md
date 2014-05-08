@@ -19,7 +19,7 @@ Les joueurs de tennis en général mais aussi les entraîneurs.
 En inserant une puce miniature dans la balle.
 
  Description fonctionnelle
-
+![Diagramme d'état](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Sans%20titre%201.jpg)
 3.1 Cas d'utilisation
 
 3.2 Diagramme etats-transitions
