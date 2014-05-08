@@ -1,25 +1,30 @@
 1. Croquis :
-jkl
-adresse du croquis : https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/img002.jpg
+
 
 2. Cahier des charges
-Balle de tennis connectée 
+
+C'est une Balle de tennis connectée 
 
 2.1 Quoi ?
-C'est une balle de tennis connectée qui serait connectée à un smartphone. Le principe de la balle connectée serait
-de pouvoir calculer la vitesse d'une balle par exemple, son effet ou encore sa position sur le terrain.
+
+C'est une balle de tennis connectée qui analyserait la position de celle-ci sur le terrain, la vitesse de la balle après la frappe. 
 
 2.2 pourquoi ?
-Pour faciliter le débrifing des matchs pour les professionnels ou même les amateurs.
+
+Pour faciliter le débrifing des matchs pour les professionnels ou même les amateurs mais aussi pour mieux visualiser les situations de matchs et s'auto-corriger pour progresser plus vite.
 
 2.3 Pour qui ?
+
 Les joueurs de tennis en général mais aussi les entraîneurs.
 
 2.4 Comment ?
-En inserant une puce miniature dans la balle.
 
- Description fonctionnelle
+En inserant une puce miniature dans la balle qui aurait différents composants sur sa carte mère pour lui permettre d'effectuer les différentes tâches.
+
+3 Description fonctionnelle
+
 ![Diagramme d'état](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Sans%20titre%201.jpg)
+
 3.1 Cas d'utilisation
 
 3.2 Diagramme etats-transitions
