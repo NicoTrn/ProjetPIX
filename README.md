@@ -1,6 +1,5 @@
 1. Croquis :
 
-![Croquis de la balle](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/img002.jpg)
 
 2. Cahier des charges
 
@@ -42,7 +41,7 @@ Nous avons donc une carte mère CERBERUS avec différents composants pour un total
 
 4.1 Schéma Gadgeteer et électronique de l'objet
 
-![Diagramme d'état](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Sans%20titre%201.jpg)
+![schema gadgeeter]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/schema%20gadgeeter.jpg)
 
 
 4.2 Liste des éléments à acheter pour le fabriquer
