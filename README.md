@@ -11,7 +11,7 @@ C'est une balle de tennis connectée qui analyserait la position de celle-ci sur 
 
 2.2 pourquoi ?
 
-Pour faciliter le débrifing des matchs pour les professionnels ou même les amateurs mais aussi pour mieux visualiser les situations de matchs et s'auto-corriger pour progresser plus vite.
+Pour faciliter le débriefing des matchs pour les professionnels ou même les amateurs mais aussi pour mieux visualiser les situations de matchs et s'auto-corriger pour progresser plus vite.
 
 2.3 Pour qui ?
 
@@ -38,7 +38,7 @@ Nous avons donc une carte mère CERBERUS avec différents composants pour un total
 -Un potentiomètre (contrôleur de position);
 -Un composant USB;
 -Un breadboard.
-
+-Un bouton
 4.1 Schéma Gadgeteer et électronique de l'objet
 
 ![schema gadgeeter]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/schema%20gadgeeter.jpg)
@@ -46,7 +46,7 @@ Nous avons donc une carte mère CERBERUS avec différents composants pour un total
 
 4.2 Liste des éléments à acheter pour le fabriquer
 
-Une carte CEBERUS, et les six composants nécessaires. Un fer à souder pour les manipulations.
+Une carte CEBERUS, et les sept composants nécessaires. Un fer à souder pour les manipulations.
 
 5. Programmation
 
