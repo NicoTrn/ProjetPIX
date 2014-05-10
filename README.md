@@ -1,5 +1,5 @@
 1. Croquis :
-
+![croquis balle]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/SCAN0021.JPG)
 
 2. Cahier des charges
 
