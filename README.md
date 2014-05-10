@@ -29,6 +29,7 @@ En inserant une puce miniature dans la balle qui aurait différents composants su
 Pour les debriefs d'après matchs des joueurs et des entraîneurs.
 
 3.2 Diagramme etats-transitions
+![schema etat transition](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/schema%20etat%20transition.jpg)
 
 4. Description matérielle
 
@@ -40,17 +41,17 @@ Nous avons donc une carte mère CERBERUS avec différents composants pour un total
 -Un composant USB;
 -Un breadboard.
 -Un joystick
+-Un bouton
 
-Nous aurons peut-être besoin d'un bouton en plus du joystick si la sélection des tâches est trop compliquée pour le joystick seul.( Le bouton n'est donc pas encore dans le schema gadgeeter).
 
 4.1 Schéma Gadgeteer et électronique de l'objet
 
-![schema gadgeeter]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Schema.jpg)
+![schema gadgeeter]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Gadget.jpg)
 
 
 4.2 Liste des éléments à acheter pour le fabriquer
 
-Une carte CEBERUS, et les sept composants nécessaires. Un fer à souder pour les manipulations.
+Une carte CEBERUS, et les huits composants nécessaires. Un fer à souder pour les manipulations.
 
 5. Programmation
 
