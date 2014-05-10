@@ -1,5 +1,5 @@
 1. Croquis :
-![croquis balle]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/SCAN0021.JPG)
+![croquis balle](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/SCAN0022.JPG)
 
 2. Cahier des charges
 
@@ -31,17 +31,21 @@ Pour les debriefs d'après matchs des joueurs et des entraîneurs.
 3.2 Diagramme etats-transitions
 
 4. Description matérielle
-Nous avons donc une carte mère CERBERUS avec différents composants pour un total de 101.7 dollars: 
+
+Nous avons donc une carte mère CERBERUS avec différents composants pour un total de 111.7 dollars: 
 -Une carte SD;
 -Un composant bluetooth;
 -Un acceleromètre(contrôleur de vitesse);
 -Un potentiomètre (contrôleur de position);
 -Un composant USB;
 -Un breadboard.
--Un bouton
+-Un joystick
+
+Nous aurons peut-être besoin d'un bouton en plus du joystick si la sélection des tâches est trop compliquée pour le joystick seul.( Le bouton n'est donc pas encore dans le schema gadgeeter).
+
 4.1 Schéma Gadgeteer et électronique de l'objet
 
-![schema gadgeeter]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/schema%20gadgeeter.jpg)
+![schema gadgeeter]( https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/Schema.jpg)
 
 
 4.2 Liste des éléments à acheter pour le fabriquer
