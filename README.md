@@ -29,7 +29,7 @@ En inserant une puce miniature dans la balle qui aurait différents composants su
 Pour les debriefs d'après matchs des joueurs et des entraîneurs.
 
 3.2 Diagramme etats-transitions
-![schema etat transition](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/schema%20etat%20transition.jpg)
+![schema etat transition](https://raw.githubusercontent.com/NicoTrn/ProjetPIX/master/etat.jpg)
 
 4. Description matérielle
 
